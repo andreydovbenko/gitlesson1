@@ -1,1 +1,3 @@
 line1
+new line feature
+new line master
